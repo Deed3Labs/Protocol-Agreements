@@ -113,4 +113,4 @@ Tests cover key functionalities such as agreement creation, digital signature ve
 
 ## License
 
-The Protocol Agreements repository is licensed under the **AGPL-3.0**. For additional details, please refer to the [LICENSE](LICENSE) file.
+The Protocol Agreements repository is licensed under the **CC0-1.0**. For additional details, please refer to the [LICENSE](LICENSE) file.
