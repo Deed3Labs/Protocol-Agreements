@@ -1,4 +1,4 @@
-# Protocol Agreements - Representing Real Property Rights On-Chain 📄
+# Protocol Agreements - The Deed Protocol
 
 This repository contains the legal agreements for **The Deed Protocol**. These agreements formalize and enforce real property rights on-chain, ensuring that transactions related to real estate are legally binding and transparent. By leveraging smart contract technology, Protocol Agreements provide a secure, immutable, and accessible way to manage legal documents for real estate transactions.
 
