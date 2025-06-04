@@ -164,12 +164,12 @@ At the establishment of the Trust, the Trustee will be a Qualified Validator ass
 This Agreement may be amended or modified only by a written instrument executed by the Beneficiary and the Trustee, with the approval of the Trust Protector. Any amendment must be attached to the Digital Deed Metadata and recorded on the Electronic Ledger through a Confirmed Transaction.
 
 ## 14. Conflict Resolution and Dispute Settlement
-In the event of any dispute arising out of or relating to this Agreement, the parties agree to first attempt to resolve the dispute through good faith negotiations. If the dispute cannot be resolved through negotiation within thirty (30) days, the parties agree to submit the dispute to binding arbitration under the rules of the American Arbitration Association or another mutually agreed-upon arbitration organization. The arbitration shall take place in the County of Natrona or Laramie, State of Wyoming, and the arbitrator's decision shall be final and binding.
+In the event of any dispute arising out of or relating to this Agreement, the parties agree to first attempt to resolve the dispute through good faith negotiations. If the dispute cannot be resolved through negotiation within thirty (30) days, the parties agree to submit the dispute to binding arbitration under the rules of the American Arbitration Association or another mutually agreed-upon arbitration organization. The arbitration shall take place in the State of Wyoming, in the County of Natrona or Laramie, and the arbitrator's decision shall be final and binding.
 
 ## 15. Governing Law and Jurisdiction
 To the extent it is not contrary to a strong public policy of the jurisdiction, if any, having a more significant relationship to this Agreement, the rights and obligations of the parties hereto, and any claims and disputes relating thereto, shall be governed by and construed in accordance with the laws of the State of Wyoming.
 
-The parties to this Agreement hereby consent to the exclusive jurisdiction of any State or Federal Court of competent jurisdiction located within the State of California, in the County of San Francisco, in connection with any actions or proceedings arising directly or indirectly from this Agreement.
+The parties to this Agreement hereby consent to the exclusive jurisdiction of any State or Federal Court of competent jurisdiction located within the State of Wyoming, in the County of Natrona or Laramie, in connection with any actions or proceedings arising directly or indirectly from this Agreement.
 
 ## 16. Digital Signature
 Given the digital nature of the transaction and the inherent connection to the Digital Deed, the parties hereby agree to use digital signatures to execute this Agreement. Digital signatures executed via secure authentication methods on the Electronic Ledger shall have the same legal effect as traditional handwritten signatures.
