@@ -107,7 +107,7 @@ The Beneficiary shall possess beneficial enjoyment of and from the Property, inc
 The Owner Rights should be considered absolute, sole, and uncontrolled, except to the extent that such Owner Rights conflict with other provisions of this Agreement.
 
 ## 7. Digital Deed Transfer
-The Beneficiary may transfer the Owner Rights by transferring the Digital Deed to another Account through the execution of any code or function that results in the assignment of the Unique ID to a different Account. Upon a Confirmed Transaction, the owner of that Account shall become the new Beneficiary of the Trust.
+The Beneficiary may transfer their Beneficial Interest by transferring the Digital Deed to another Account through the execution of any code or function that results in the assignment of the Unique ID to a different Account. Upon a Confirmed Transaction, the owner of that Account shall become the new Beneficiary of the Trust.
 
 The Trustee will remain the one assigned at the establishment of the Trust unless changed or approved by the Trust Protector. The transfer of the Digital Deed does not automatically result in a change of the Trustee. The Trustee shall continue to serve regardless of changes in the Beneficiary, unless and until the Trustee is changed or removed by the Trust Protector as provided in Section 11.
 
